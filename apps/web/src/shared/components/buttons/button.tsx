@@ -1,5 +1,5 @@
 import { ButtonHTMLAttributes, DetailedHTMLProps, FC, ReactNode } from "react";
-import { twJoin, twMerge } from "tailwind-merge";
+import { twJoin } from "tailwind-merge";
 
 export enum ButtonStyleType {
   NONE = "",
